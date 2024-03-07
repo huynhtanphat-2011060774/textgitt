@@ -12,6 +12,7 @@
     echo "hello word "
     ?>
     <h1>Hi Am TrUnG</h1>
+    <h2>Hi am Phat</h2>
 </body>
 
 </html>
